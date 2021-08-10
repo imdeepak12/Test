@@ -26,7 +26,7 @@ class Temp
 	{
 		return i;
 	}
-	public String toString()
+	 public String toString()
 	{
 		return i+"";
 	}
